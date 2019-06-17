@@ -1,0 +1,27 @@
+{
+  "name": "ipfscatremote",
+  "version": "0.0.0",
+  "description": "",
+  "main": "catremote.node",
+  "dependencies": {
+    "inquirer": "^6.3.1",
+    "ipfs": "^0.36.3",
+    "keypress": "^0.2.1",
+    "pull-pushable": "^2.2.0",
+    "pull-stream": "^3.6.12"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:alanshaw/catremote.git"
+  },
+  "author": "Alan Shaw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alanshaw/catremote/issues"
+  },
+  "homepage": "https://github.com/alanshaw/catremote"
+}
