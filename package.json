@@ -4,9 +4,12 @@
   "description": "",
   "main": "catremote.node",
   "dependencies": {
+    "debug": "^4.1.1",
     "inquirer": "^6.3.1",
     "ipfs": "^0.36.3",
+    "johnny-five": "^1.1.0",
     "keypress": "^0.2.1",
+    "light-event-bus": "^1.0.1",
     "pull-pushable": "^2.2.0",
     "pull-stream": "^3.6.12"
   },
